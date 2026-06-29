@@ -21,12 +21,13 @@
 - ⚡ Hardware & Software Developer exploring IoT, Embedded Systems, and Robotics.
 - 🎓 Electrical Engineering student at University of Moratuwa (#B23).
 - 💬 Ask me about **ESP32, LoRa, C++, and Circuit Design**.
-- 📫 How to reach me: **senujadilmith2003@gmail.com**
+- 📫 How to reach me: **senujadilmith1@gmail.com** or **senujadilmith2003@gmail.com**
 
 ### 🚀 Projects
 
 - 🏕️ **GTricks Pathfinder:** A solar-powered safety hub for hikers designed to provide offline maps and weather predictions via LoRa.
 - 🟢 **The Green Dot:** Innovative device and Grand Finalist project at the Pitch 60 Inter-University Business Pitching Competition.
+- 👶 **SMART BABY CARE SYSTEM:** A IOT solution for baby care and monitoring using NI DAQ card and LabView with Machine Learning 
 
 ### 🛠️ Languages & Tools
 
